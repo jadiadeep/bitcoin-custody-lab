@@ -1,0 +1,1 @@
+{"backup":"single-copy","hot_float_pct":100,"key_locations":1,"key_storage":"software-hot","name":"Example: startup hot wallet (single key on server) - EXPECTED TO FAIL","operators":1,"scheme":"singlesig-hot","signing":"online"}
